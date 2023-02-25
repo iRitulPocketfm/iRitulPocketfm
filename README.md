@@ -3,15 +3,6 @@ I am Ritul Mishra, an enthusiastic individual with 3+ years of experience in Aut
 
 - 💬 Ask me about anything related to Software Testing/Test Automation, I would be happy to help!
 
-<div align="center">
-  <h2>📊 Profile stats</h2>
-
-![Ritul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iRitulPocketfm&show_icons=true&theme=radical)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iRitulPocketfm&hide=scss,css,html&theme=dark&layout=compact)
-
-</div>
-
 If you like my work, you can buy me a tea/coffee:
 
 <a href="https://www.buymeacoffee.com/ritulmishra" target="_blank" rel="noreferrer nofollow">
